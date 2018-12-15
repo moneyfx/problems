@@ -10,7 +10,7 @@ public class Solution {
             i++;
             j--;
         }
-        
+
         return new String(arr);
     }
 
